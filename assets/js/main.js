@@ -29,7 +29,7 @@ const propiedades_venta = [
     },
     {
         nombre: 'Penthouse de lujo con terraza panorámica',
-        src: 'https://resizer.glanacion.com/resizer/fhK-tSVag_8UGJjPMgWrspslPoU=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/CUXVMXQE4JD5XIXX4X3PDZAVMY.jpg',
+        src: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1000&q=80',
         descripcion: 'Este penthouse de lujo ofrece una terraza panorámica con vistas espectaculares',
         ubicacion: '567 Skyline Avenue, Skyview City, CA 56789',
         habitaciones: 3,
